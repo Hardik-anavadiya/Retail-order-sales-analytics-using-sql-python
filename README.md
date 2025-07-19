@@ -58,3 +58,9 @@ Used SQL queries to perform multiple business-level analyses:
 - Cleaned and normalized real-world dataset
 - SQL logic optimized for performance and business clarity
 - Hands-on experience in combining Python and SQL for data workflows
+
+  ## Project Files
+
+- [Retail_order.ipynb](./scripts/Retail_order.ipynb) – Python notebook for data extraction, cleaning, and transformation  
+- [Retail_order_Analysis.sql](./scripts/Retail_order_Analysis.sql) – SQL file containing queries for sales analysis
+
